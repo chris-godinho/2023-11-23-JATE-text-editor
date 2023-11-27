@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple text editor that can be installed to your desktop/moblie.
+A simple text editor that can be installed to your desktop/mobile.
 
 ![A render of the app in execution](/public/images/readme_render.jpg)
 
@@ -17,6 +17,8 @@ This is a one-off project that's not being supported any longer. Feel free, howe
 ## Credits
 
 This application was created by the University of Toronto's School of Continuing Studies, with additions by [Chris Godinho](<https://github.com/chris-godinho>).
+
+A large part of the research for this project was done through the websites Stack Overflow (<https://stackoverflow.com/>) and ChatGPT (<https://chat.openai.com/>), and as such small sections of code were adapted from examples and suggestions offered in those sites.
 
 ## License
 
