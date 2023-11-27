@@ -8,7 +8,7 @@ A simple text editor that can be installed to your desktop/mobile.
 
 ## Installation
 
-Just click the "Install!" button on the top left side.
+Just click the "Install!" button at the top left corner.
 
 ## How can I Contribute?
 
