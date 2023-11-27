@@ -14,7 +14,6 @@ const initdb = async () =>
 
 export const putDb = async (content) => {
   try {
-    console.log("Updating JATE database...");
     const db = await openDB("jate", 1);
     const transaction = db.transaction("jate", "readwrite");
     const store = transaction.objectStore("jate");
@@ -22,7 +21,7 @@ export const putDb = async (content) => {
     const result = await request;
     console.log("JATE database updated", result);
   } catch (error) {
-    console.error("Error updating jate database:", error);
+    console.error("Error updating JATE database:", error);
   }
 };
 
