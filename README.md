@@ -8,7 +8,7 @@ A simple text editor that can be installed to your desktop/mobile.
 
 ## Installation
 
-Just click the "Install!" button at the top left corner.
+The web application can be accessed [here](<https://jate-text-editor-ik0b.onrender.com/>). To install it in your device, just click the "Install!" button at the top left corner.
 
 ## How can I Contribute?
 
